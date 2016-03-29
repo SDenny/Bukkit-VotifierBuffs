@@ -1,0 +1,5 @@
+main: com.minecraftport.votifierBuffs.main
+name: VotifierBuffs
+version: 0.30
+author: SDDJ
+depend: [Votifier, Vault]
